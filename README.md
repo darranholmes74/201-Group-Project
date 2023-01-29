@@ -1,6 +1,6 @@
 # 201-Group-Project
 
-### Project By: Darran Holmes, Sheldon Pierce, & Rhett Beardemphl
+### Project By: Darran Holmes, Sheldon Pierce & Rhett Beardemphl
 
 ## Cooperation Plan
 
