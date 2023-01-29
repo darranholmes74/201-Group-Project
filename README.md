@@ -1,5 +1,7 @@
 # 201-Group-Project
 
+### Project By: Darran Holmes, Sheldon Pierce, & Rhett Beardemphl
+
 ## Cooperation Plan
 
 What are the key strengths of each person on the team?
