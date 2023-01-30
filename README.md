@@ -18,13 +18,23 @@ NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an i
 
 What will be your group’s process to resolve conflict, when it arises?
 
+We will vote on features that we want to add as a group. All three of us get along well and are easy going too, so I don't believe we will run in to conflicts.
+
 What will your team do if one person is taking over the project and not letting the other members contribute?
+
+Have a conversation about what are roles are and what we want to accomplish.
 
 How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
+Sheldon is ahead of both Rhett and I on understanding, but he as always been good at explaining everything to help others catch up and understand.
+
 How will you raise concerns to members who are not adequately contributing?
 
+If one of use is not contributing as much we will give at person spacific tasks to complete that are needed done.
+
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+
+Get the instructor involved.
 
 ## Communication Plan
 
