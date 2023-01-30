@@ -10,29 +10,53 @@ Our team is solid. We have Darran, he is a master at CSS3. He has never met a st
 
 What will be your group’s process to resolve conflict, when it arises?
 
+We will make sure to vote on features we want to add and be open about our issue we may be having.
+
 What will your team do if one person is taking over the project and not letting the other members contribute?
+
+We will make sure we discuss what our jobs are and make sure we hold each other accountable.
 
 How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
+Sheldon is already ahead of Rhett and I on knownlege but he as always done a good job of explaining things and catching everyone else up.
+
 How will you raise concerns to members who are not adequately contributing?
 
+We will give that person a task to complete of something that needs to get done.
+
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+
+Get a instructor involved.
 
 ## Communication Plan
 
 What hours will you be available to communicate?
 
+9am - 5pm
+
 What platforms will you use to communicate (ie. Slack, phone …)?
+
+slack, message by pidgeon, phone, Call of Duty Lobbies
 
 How often will you take breaks?
 
+As often as needed.
+
 What is your plan if you start to fall behind?
+
+We won't. But in case we do, try to put in some extra hours. 
 
 How will you communicate after hours and on the weekend?
 
+Communicate through text or on the phone. We pretty much have it on us at all times.
+
 What is your strategy for ensuring everyone’s voice is heard?
 
+Making sure everyone speaks up and includes different aspects into the project that we can incorporate into the main code. 
+
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+
+Letting everyone know that no idea is stupid, and if we can think of a way to code it up, we will try to make it happen.
 
 ## Work Plan
 
