@@ -70,6 +70,8 @@ Make a single copy of the Presentation Deck Template. Share your copy will all t
 
 Link to the shared doc in your project plan.
 
+https://docs.google.com/presentation/d/1fNTQ1nT9NMpTxvpBscMFDYJCVHRRF6EW-xDwLMMmbIE/edit#slide=id.g2accd1c413_3_31
+
 ## Git Process
 
 What components of your project will live on GitHub?
