@@ -10,13 +10,23 @@ Our team is solid. We have Darran, he is a master at CSS3. He has never met a st
 
 What will be your group’s process to resolve conflict, when it arises?
 
+We will make sure to vote on features we want to add and be open about our issue we may be having.
+
 What will your team do if one person is taking over the project and not letting the other members contribute?
+
+We will make sure we discuss what our jobs are and make sure we hold each other accountable.
 
 How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
+Sheldon is already ahead of Rhett and I on knownlege but he as always done a good job of explaining things and catching everyone else up.
+
 How will you raise concerns to members who are not adequately contributing?
 
+We will give that person a task to complete of something that needs to get done.
+
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+
+Get a instructor involved.
 
 ## Communication Plan
 
