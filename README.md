@@ -4,13 +4,7 @@
 
 ## Cooperation Plan
 
-What are the key strengths of each person on the team?
-
-How can you best utilize these strengths in the execution of your project?
-
-In which professional competencies do you each want to develop greater strength?
-
-Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+Our team is solid. We have Darran, he is a master at CSS3. He has never met a styling object he can't overcome. Then there is Sheldon, he is a JavaScript menace. He literally puts the Java in your script. Lastly we have Rhett, he is a talented manager. He will make sure everyone is at task all day long. He is only capable of laying out the skeleton on HTML5. Darran and Rhett have experience driving and navigating together. They will have no problems getting the website structured and styled. Sheldon will inject his JavaScript knowledge to store data locally and fire it to the page when needed. Rhett wants to develop greater strength in JavaScript, specifically localStorage. Darran wants to derive a greater overall confidence in creating and understanding logical statements in JavaScript. Sheldon wants to understand algorithms better so he can make robots in the future. We plan to approach our day-to-day work by meeting up in the mornings and discussing what we achieved the day before and what we are going to attempt to achieve today. 
 
 NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an individual is considered to be unacceptable. Account for the inevitable divergence of ideas, execution tasks, and assignments of duties here.
 
@@ -18,53 +12,29 @@ NOTE: Undoing, Redoing, Replacing, or otherwise steamrolling the project as an i
 
 What will be your group’s process to resolve conflict, when it arises?
 
-We will vote on features that we want to add as a group. All three of us get along well and are easy going too, so I don't believe we will run in to conflicts.
-
 What will your team do if one person is taking over the project and not letting the other members contribute?
-
-Have a conversation about what are roles are and what we want to accomplish.
 
 How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
 
-Sheldon is ahead of both Rhett and I on understanding, but he as always been good at explaining everything to help others catch up and understand.
-
 How will you raise concerns to members who are not adequately contributing?
 
-If one of use is not contributing as much we will give at person spacific tasks to complete that are needed done.
-
 How and when will you escalate the conflict if your resolution attempts are unsuccessful?
-
-Get the instructor involved.
 
 ## Communication Plan
 
 What hours will you be available to communicate?
 
-9am - 5pm
-
 What platforms will you use to communicate (ie. Slack, phone …)?
-
-slack, message by pidgeon, phone, Call of Duty Lobbies
 
 How often will you take breaks?
 
-As often as needed.
-
 What is your plan if you start to fall behind?
-
-We won't. But in case we do, try to put in some extra hours. 
 
 How will you communicate after hours and on the weekend?
 
-Communicate through text or on the phone. We pretty much have it on us at all times.
-
 What is your strategy for ensuring everyone’s voice is heard?
 
-Making sure everyone speaks up and includes different aspects into the project that we can incorporate into the main code. 
-
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
-
-Letting everyone know that no idea is stupid, and if we can think of a way to code it up, we will try to make it happen.
 
 ## Work Plan
 
