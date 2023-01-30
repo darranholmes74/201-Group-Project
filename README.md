@@ -22,17 +22,31 @@ How and when will you escalate the conflict if your resolution attempts are unsu
 
 What hours will you be available to communicate?
 
+9am - 5pm
+
 What platforms will you use to communicate (ie. Slack, phone …)?
+
+slack, message by pidgeon, phone, Call of Duty Lobbies
 
 How often will you take breaks?
 
+As often as needed.
+
 What is your plan if you start to fall behind?
+
+We won't. But in case we do, try to put in some extra hours. 
 
 How will you communicate after hours and on the weekend?
 
+Communicate through text or on the phone. We pretty much have it on us at all times.
+
 What is your strategy for ensuring everyone’s voice is heard?
 
+Making sure everyone speaks up and includes different aspects into the project that we can incorporate into the main code. 
+
 How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
+
+Letting everyone know that no idea is stupid, and if we can think of a way to code it up, we will try to make it happen.
 
 ## Work Plan
 
